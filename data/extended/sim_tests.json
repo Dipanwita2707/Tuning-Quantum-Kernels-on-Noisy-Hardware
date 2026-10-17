@@ -1,0 +1,92 @@
+{
+ "n_configs": 960,
+ "n_clusters": 64,
+ "H1_drift": {
+  "mean_log2_shift": 0.29665798611111116,
+  "p": 4.0504879043024853e-07,
+  "clusters_up": 50,
+  "clusters_down": 11,
+  "by_noise": {
+   "coh": 0.37890625,
+   "cohweak": 0.2964409722222222,
+   "dep": 0.24348958333333334,
+   "device": 0.2677951388888889
+  }
+ },
+ "H2_diag_reduces_drift": {
+  "mean_reduction": -0.008680555555555552,
+  "p": 0.8668788749012245,
+  "mean_abs_shift_unit": 0.49587673611111116,
+  "mean_abs_shift_meas": 0.5045572916666666
+ },
+ "H3_asym_vs_excess_loss": {
+  "spearman": 0.45489045559774016,
+  "p_cluster_perm": 0.818,
+  "by_noise": {
+   "coh": {
+    "asym": 22.410641883188024,
+    "excess_loss": 0.04223090277777778
+   },
+   "cohweak": {
+    "asym": 4.256166399269976,
+    "excess_loss": 0.008615451388888888
+   },
+   "dep": {
+    "asym": 0.9927280165548478,
+    "excess_loss": -0.0013888888888888898
+   },
+   "device": {
+    "asym": 1.175005211119965,
+    "excess_loss": -0.0001302083333333323
+   }
+  }
+ },
+ "H4_protocol": {
+  "mean_diff": 0.004466145833333334,
+  "ci95": [
+   -0.0016623942057291678,
+   0.010386284722222224
+  ],
+  "p_noninferior_margin_1pt": 2.5319086151916248e-05,
+  "p_superiority": 0.0826509143917984
+ },
+ "holm": {
+  "H1": 1.6201951617209941e-06,
+  "H4": 7.595725845574875e-05,
+  "H3": 1.0,
+  "H2": 1.0
+ },
+ "rule_means": {
+  "acc_oracle": 0.9430338541666666,
+  "acc_sim_cv": 0.9102587890624999,
+  "acc_dev_cv_unit": 0.9250434027777779,
+  "acc_dev_cv_meas": 0.9147249348958333,
+  "acc_kta": 0.9149739583333334
+ },
+ "rule_means_by_noise": {
+  "coh": {
+   "acc_sim_cv": 0.8665,
+   "acc_dev_cv_unit": 0.9056,
+   "acc_dev_cv_meas": 0.8919,
+   "acc_kta": 0.8975
+  },
+  "cohweak": {
+   "acc_sim_cv": 0.9197,
+   "acc_dev_cv_unit": 0.9297,
+   "acc_dev_cv_meas": 0.9201,
+   "acc_kta": 0.9189
+  },
+  "dep": {
+   "acc_sim_cv": 0.9276,
+   "acc_dev_cv_unit": 0.9324,
+   "acc_dev_cv_meas": 0.9242,
+   "acc_kta": 0.9206
+  },
+  "device": {
+   "acc_sim_cv": 0.9273,
+   "acc_dev_cv_unit": 0.9324,
+   "acc_dev_cv_meas": 0.9227,
+   "acc_kta": 0.9229
+  }
+ }
+}

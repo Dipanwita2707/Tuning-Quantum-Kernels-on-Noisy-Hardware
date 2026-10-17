@@ -1,0 +1,9 @@
+qiskit==1.4.6
+qiskit-aer==0.17.2
+qiskit-machine-learning==0.8.4
+qiskit-ibm-runtime==0.37.0
+scikit-learn==1.6.1
+scipy
+numpy
+pandas
+matplotlib

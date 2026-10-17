@@ -1,0 +1,28 @@
+# Credentials and local environments
+.local/
+.env
+.env.*
+apikey*.json
+credentials*.json
+secrets*.json
+qiskit-ibm.json
+*.pem
+*.key
+.venv*/
+venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# This repository publishes code and recorded results only.
+manuscripts/
+docs/
+figures/
+publication/
+data/preliminary/
+data/extended/logs/
+*.pdf
+*.tex
+*.bib
+*.zip
+*.bundle

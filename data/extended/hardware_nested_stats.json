@@ -1,0 +1,129 @@
+{
+ "digits_blocks": 9,
+ "meas_better": 7,
+ "meas_worse": 2,
+ "gain_mean": 0.021746031746031753,
+ "gain_min": -0.024047619047619095,
+ "gain_max": 0.08952380952380967,
+ "mit_vs_meas_mean": 0.0023809523809523604,
+ "mit_vs_meas_min": -0.011190476190476195,
+ "mit_vs_meas_max": 0.011904761904761973,
+ "best_c": {
+  "ibm_fez": {
+   "nested_exact": 0.0625,
+   "nested_unit": 0.125,
+   "nested_meas": 0.125
+  },
+  "ibm_kingston": {
+   "nested_exact": 0.0625,
+   "nested_unit": 0.125,
+   "nested_meas": 0.125
+  },
+  "ibm_marrakesh": {
+   "nested_exact": 0.0625,
+   "nested_unit": 0.0625,
+   "nested_meas": 0.0625
+  }
+ },
+ "rows": [
+  {
+   "device": "ibm_fez",
+   "task": "digits3v5",
+   "c": 0.0625,
+   "nested_exact": 0.9657142857142857,
+   "nested_unit": 0.4719047619047619,
+   "nested_meas": 0.5080952380952382,
+   "nested_mit": 0.5147619047619048,
+   "gain": 0.03619047619047627,
+   "mit_vs_meas": 0.006666666666666599
+  },
+  {
+   "device": "ibm_fez",
+   "task": "digits3v5",
+   "c": 0.125,
+   "nested_exact": 0.9214285714285714,
+   "nested_unit": 0.9307142857142856,
+   "nested_meas": 0.919047619047619,
+   "nested_mit": 0.9159523809523811,
+   "gain": -0.011666666666666603,
+   "mit_vs_meas": -0.003095238095237929
+  },
+  {
+   "device": "ibm_fez",
+   "task": "digits3v5",
+   "c": 0.25,
+   "nested_exact": 0.8759523809523809,
+   "nested_unit": 0.6619047619047619,
+   "nested_meas": 0.7114285714285713,
+   "nested_mit": 0.7233333333333333,
+   "gain": 0.049523809523809414,
+   "mit_vs_meas": 0.011904761904761973
+  },
+  {
+   "device": "ibm_kingston",
+   "task": "digits3v5",
+   "c": 0.0625,
+   "nested_exact": 0.9657142857142857,
+   "nested_unit": 0.8959523809523811,
+   "nested_meas": 0.915,
+   "nested_mit": 0.912142857142857,
+   "gain": 0.01904761904761898,
+   "mit_vs_meas": -0.0028571428571430024
+  },
+  {
+   "device": "ibm_kingston",
+   "task": "digits3v5",
+   "c": 0.125,
+   "nested_exact": 0.9214285714285714,
+   "nested_unit": 0.9564285714285714,
+   "nested_meas": 0.9323809523809523,
+   "nested_mit": 0.9407142857142857,
+   "gain": -0.024047619047619095,
+   "mit_vs_meas": 0.008333333333333415
+  },
+  {
+   "device": "ibm_kingston",
+   "task": "digits3v5",
+   "c": 0.25,
+   "nested_exact": 0.8759523809523809,
+   "nested_unit": 0.7595238095238095,
+   "nested_meas": 0.8490476190476192,
+   "nested_mit": 0.8540476190476189,
+   "gain": 0.08952380952380967,
+   "mit_vs_meas": 0.004999999999999782
+  },
+  {
+   "device": "ibm_marrakesh",
+   "task": "digits3v5",
+   "c": 0.0625,
+   "nested_exact": 0.9657142857142857,
+   "nested_unit": 0.935952380952381,
+   "nested_meas": 0.9404761904761905,
+   "nested_mit": 0.9388095238095236,
+   "gain": 0.0045238095238094855,
+   "mit_vs_meas": -0.0016666666666668162
+  },
+  {
+   "device": "ibm_marrakesh",
+   "task": "digits3v5",
+   "c": 0.125,
+   "nested_exact": 0.9214285714285714,
+   "nested_unit": 0.9226190476190476,
+   "nested_meas": 0.9361904761904762,
+   "nested_mit": 0.925,
+   "gain": 0.013571428571428679,
+   "mit_vs_meas": -0.011190476190476195
+  },
+  {
+   "device": "ibm_marrakesh",
+   "task": "digits3v5",
+   "c": 0.25,
+   "nested_exact": 0.8759523809523809,
+   "nested_unit": 0.8828571428571429,
+   "nested_meas": 0.9019047619047619,
+   "nested_mit": 0.9102380952380953,
+   "gain": 0.01904761904761898,
+   "mit_vs_meas": 0.008333333333333415
+  }
+ ]
+}

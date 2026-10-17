@@ -1,0 +1,164 @@
+{
+ "ibm_fez_digits3v5_n8_day1|0.0625": {
+  "device": "ibm_fez",
+  "task": "digits3v5",
+  "c": 0.0625,
+  "nested_exact": 0.9657142857142857,
+  "nested_unit": 0.4719047619047619,
+  "nested_meas": 0.5080952380952382,
+  "nested_mit": 0.5147619047619048
+ },
+ "ibm_fez_digits3v5_n8_day1|0.125": {
+  "device": "ibm_fez",
+  "task": "digits3v5",
+  "c": 0.125,
+  "nested_exact": 0.9214285714285714,
+  "nested_unit": 0.9307142857142856,
+  "nested_meas": 0.919047619047619,
+  "nested_mit": 0.9159523809523811
+ },
+ "ibm_fez_digits3v5_n8_day1|0.25": {
+  "device": "ibm_fez",
+  "task": "digits3v5",
+  "c": 0.25,
+  "nested_exact": 0.8759523809523809,
+  "nested_unit": 0.6619047619047619,
+  "nested_meas": 0.7114285714285713,
+  "nested_mit": 0.7233333333333333
+ },
+ "ibm_fez_qnative_n8_day1|0.0625": {
+  "device": "ibm_fez",
+  "task": "qnative",
+  "c": 0.0625,
+  "nested_exact": 0.3885714285714286,
+  "nested_unit": 0.4661904761904762,
+  "nested_meas": 0.4219047619047619,
+  "nested_mit": 0.4026190476190476
+ },
+ "ibm_fez_qnative_n8_day1|0.125": {
+  "device": "ibm_fez",
+  "task": "qnative",
+  "c": 0.125,
+  "nested_exact": 0.3514285714285715,
+  "nested_unit": 0.3609523809523811,
+  "nested_meas": 0.3947619047619048,
+  "nested_mit": 0.38
+ },
+ "ibm_fez_qnative_n8_day1|0.25": {
+  "device": "ibm_fez",
+  "task": "qnative",
+  "c": 0.25,
+  "nested_exact": 0.5964285714285714,
+  "nested_unit": 0.5254761904761905,
+  "nested_meas": 0.4647619047619048,
+  "nested_mit": 0.5349999999999999
+ },
+ "ibm_kingston_digits3v5_n8_day1|0.0625": {
+  "device": "ibm_kingston",
+  "task": "digits3v5",
+  "c": 0.0625,
+  "nested_exact": 0.9657142857142857,
+  "nested_unit": 0.8959523809523811,
+  "nested_meas": 0.915,
+  "nested_mit": 0.912142857142857
+ },
+ "ibm_kingston_digits3v5_n8_day1|0.125": {
+  "device": "ibm_kingston",
+  "task": "digits3v5",
+  "c": 0.125,
+  "nested_exact": 0.9214285714285714,
+  "nested_unit": 0.9564285714285714,
+  "nested_meas": 0.9323809523809523,
+  "nested_mit": 0.9407142857142857
+ },
+ "ibm_kingston_digits3v5_n8_day1|0.25": {
+  "device": "ibm_kingston",
+  "task": "digits3v5",
+  "c": 0.25,
+  "nested_exact": 0.8759523809523809,
+  "nested_unit": 0.7595238095238095,
+  "nested_meas": 0.8490476190476192,
+  "nested_mit": 0.8540476190476189
+ },
+ "ibm_kingston_qnative_n8_day1|0.0625": {
+  "device": "ibm_kingston",
+  "task": "qnative",
+  "c": 0.0625,
+  "nested_exact": 0.3885714285714286,
+  "nested_unit": 0.38309523809523804,
+  "nested_meas": 0.3538095238095238,
+  "nested_mit": 0.35547619047619045
+ },
+ "ibm_kingston_qnative_n8_day1|0.125": {
+  "device": "ibm_kingston",
+  "task": "qnative",
+  "c": 0.125,
+  "nested_exact": 0.3514285714285715,
+  "nested_unit": 0.3619047619047619,
+  "nested_meas": 0.3547619047619047,
+  "nested_mit": 0.3526190476190476
+ },
+ "ibm_kingston_qnative_n8_day1|0.25": {
+  "device": "ibm_kingston",
+  "task": "qnative",
+  "c": 0.25,
+  "nested_exact": 0.5964285714285714,
+  "nested_unit": 0.5209523809523808,
+  "nested_meas": 0.5754761904761905,
+  "nested_mit": 0.575952380952381
+ },
+ "ibm_marrakesh_digits3v5_n8_day1|0.0625": {
+  "device": "ibm_marrakesh",
+  "task": "digits3v5",
+  "c": 0.0625,
+  "nested_exact": 0.9657142857142857,
+  "nested_unit": 0.935952380952381,
+  "nested_meas": 0.9404761904761905,
+  "nested_mit": 0.9388095238095236
+ },
+ "ibm_marrakesh_digits3v5_n8_day1|0.125": {
+  "device": "ibm_marrakesh",
+  "task": "digits3v5",
+  "c": 0.125,
+  "nested_exact": 0.9214285714285714,
+  "nested_unit": 0.9226190476190476,
+  "nested_meas": 0.9361904761904762,
+  "nested_mit": 0.925
+ },
+ "ibm_marrakesh_digits3v5_n8_day1|0.25": {
+  "device": "ibm_marrakesh",
+  "task": "digits3v5",
+  "c": 0.25,
+  "nested_exact": 0.8759523809523809,
+  "nested_unit": 0.8828571428571429,
+  "nested_meas": 0.9019047619047619,
+  "nested_mit": 0.9102380952380953
+ },
+ "ibm_marrakesh_qnative_n8_day1|0.0625": {
+  "device": "ibm_marrakesh",
+  "task": "qnative",
+  "c": 0.0625,
+  "nested_exact": 0.3885714285714286,
+  "nested_unit": 0.3847619047619048,
+  "nested_meas": 0.40333333333333327,
+  "nested_mit": 0.4099999999999999
+ },
+ "ibm_marrakesh_qnative_n8_day1|0.125": {
+  "device": "ibm_marrakesh",
+  "task": "qnative",
+  "c": 0.125,
+  "nested_exact": 0.3514285714285715,
+  "nested_unit": 0.3530952380952382,
+  "nested_meas": 0.35261904761904767,
+  "nested_mit": 0.35547619047619056
+ },
+ "ibm_marrakesh_qnative_n8_day1|0.25": {
+  "device": "ibm_marrakesh",
+  "task": "qnative",
+  "c": 0.25,
+  "nested_exact": 0.5964285714285714,
+  "nested_unit": 0.5721428571428571,
+  "nested_meas": 0.585,
+  "nested_mit": 0.5764285714285713
+ }
+}
